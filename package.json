@@ -1,0 +1,27 @@
+{
+  "name": "101282741_assignment2_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashBwhite/101282741_assignment2_backend.git"
+  },
+  "author": "Yoo Kyung Baek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashBwhite/101282741_assignment2_backend/issues"
+  },
+  "homepage": "https://github.com/ashBwhite/101282741_assignment2_backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "mongoose": "^6.0.14",
+    "express": "^4.17.1"
+  }
+}
